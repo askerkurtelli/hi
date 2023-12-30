@@ -12,7 +12,7 @@ I hold a BA in Music from Oxford University with the **[Gibbs Prize](https://www
 
 I made this page to house my [**CV**](Asker_Kurt-Elli_CV.pdf). But that seemed a little dull. So now it’s a catch-all for projects I am working on (academic and personal).
 
->[!contact] CV + Contact Me!
+>[!contact] CV + Contact Me
 >[**Here's my CV**](Asker_Kurt-Elli_CV.pdf), but don't be shy. Get in touch via **[email](mailto:asker_kurtelli@g.harvard.edu)** or **[LinkedIn](https://www.linkedin.com/in/asker-kurt-elli/)**!
 
 # Research 📄
