@@ -25,6 +25,12 @@
     --bg: #00b0ff10;
   }
 
+  &[data-callout="contact"] {
+    --color: #00b0ff;
+    --border: #00b0ff44;
+    --bg: #00b0ff10;
+  }
+
   &[data-callout="info"],
   &[data-callout="todo"] {
     --color: #00b8d4;
@@ -45,9 +51,9 @@
   }
 
   &[data-callout="question"] {
-    --color: #dba642;
-    --border: #dba64244;
-    --bg: #dba64210;
+    --color: #448aff;
+    --border: #448aff44;
+    --bg: #448aff10;
   }
 
   &[data-callout="warning"] {
@@ -65,9 +71,9 @@
   }
 
   &[data-callout="example"] {
-    --color: #7a43b5;
-    --border: #7a43b544;
-    --bg: #7a43b510;
+    --color: #448aff;
+    --border: #448aff44;
+    --bg: #448aff10;
   }
 
   &[data-callout="quote"] {
